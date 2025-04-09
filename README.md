@@ -79,6 +79,9 @@ For issues, feature requests, or contributions, please use the GitHub issues sys
 
 Created by Omiya
 
+
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Copyright © 2025 Omiya. All rights reserved.
+
+This project is not licensed for public use. Permission is required from the author for any distribution, modification, or commercial use.
